@@ -9,5 +9,5 @@ def main():
 
 if __name__ == '__main__':
     main()
-    time.sleep(2)
+    time.sleep(3)
 
